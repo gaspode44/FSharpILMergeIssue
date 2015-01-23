@@ -1,0 +1,9 @@
+c:\users\richard\documents\visual studio 2013\Projects\FSharpAndIlMergeIssue\FSharpAndIlMergeIssue\bin\Debug\FSharpAndIlMergeIssue.exe.config
+c:\users\richard\documents\visual studio 2013\Projects\FSharpAndIlMergeIssue\FSharpAndIlMergeIssue\bin\Debug\FSharpAndIlMergeIssue.XML
+c:\users\richard\documents\visual studio 2013\Projects\FSharpAndIlMergeIssue\FSharpAndIlMergeIssue\bin\Debug\FSharpAndIlMergeIssue.exe
+c:\users\richard\documents\visual studio 2013\Projects\FSharpAndIlMergeIssue\FSharpAndIlMergeIssue\bin\Debug\FSharpAndIlMergeIssue.pdb
+c:\users\richard\documents\visual studio 2013\Projects\FSharpAndIlMergeIssue\FSharpAndIlMergeIssue\bin\Debug\FSharp.Core.dll
+c:\users\richard\documents\visual studio 2013\Projects\FSharpAndIlMergeIssue\FSharpAndIlMergeIssue\bin\Debug\Newtonsoft.Json.dll
+c:\users\richard\documents\visual studio 2013\Projects\FSharpAndIlMergeIssue\FSharpAndIlMergeIssue\bin\Debug\FSharp.Core.xml
+c:\users\richard\documents\visual studio 2013\Projects\FSharpAndIlMergeIssue\FSharpAndIlMergeIssue\obj\Debug\FSharpAndIlMergeIssue.exe
+c:\users\richard\documents\visual studio 2013\Projects\FSharpAndIlMergeIssue\FSharpAndIlMergeIssue\obj\Debug\FSharpAndIlMergeIssue.pdb
